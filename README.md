@@ -3,15 +3,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:050505,40:E50914,75:800000,100:050505&height=260&section=header&text=PUJAN%20CHOUHAN&fontSize=54&fontAlignY=38&desc=AI%20%26%20FULL-STACK%20SOFTWARE%20ENGINEER&descAlignY=62&descSize=20&fontColor=ffffff" width="100%" alt="Header Banner" />
 
   <!-- DYNAMIC ANIMATED TYPING SVG -->
-  <a href="https://dev-portfolio-exo.vercel.app/">
+  <a href="https://pujanchouhan.github.io/dev-portfolio-exo/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=1000&color=E50914&center=true&vCenter=true&width=780&lines=AI+%26+Full-Stack+Software+Engineer;Generative+AI+%26+LLM+Hallucination+Grounding;High-Performance+FastAPI+Microservices;Cinematic+Interactive+Web+Experiences;CSE+%40+Lovely+Professional+University" alt="Typing SVG" />
   </a>
 
   <br /><br />
 
   <!-- BADGES ROW -->
-  <a href="https://dev-portfolio-exo.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-E50914?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  <a href="https://pujanchouhan.github.io/dev-portfolio-exo/">
+    <img src="https://img.shields.io/badge/Live%20Host-Visit%20Portfolio-E50914?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Host" />
   </a>
   <a href="https://github.com/pujanchouhan/dev-portfolio-exo">
     <img src="https://img.shields.io/badge/GitHub-dev--portfolio--exo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
@@ -55,10 +55,12 @@
 
 ## ⚡ Direct Host Links
 
+> **🌐 Live Deployment:** **[https://pujanchouhan.github.io/dev-portfolio-exo/](https://pujanchouhan.github.io/dev-portfolio-exo/)**
+
 | Target | URL | Status |
 | :--- | :--- | :--- |
-| **🚀 Primary Live Site (Vercel)** | [https://dev-portfolio-exo.vercel.app/](https://dev-portfolio-exo.vercel.app/) | `ONLINE` |
-| **🌐 Alternative Mirror (GitHub Pages)** | [https://pujanchouhan.github.io/dev-portfolio-exo/](https://pujanchouhan.github.io/dev-portfolio-exo/) | `ACTIVE` |
+| **🚀 Direct Live Site (GitHub Pages)** | [https://pujanchouhan.github.io/dev-portfolio-exo/](https://pujanchouhan.github.io/dev-portfolio-exo/) | `LIVE & RUNNING` |
+| **🌐 Secondary Mirror (Vercel)** | [https://dev-portfolio-exo.vercel.app/](https://dev-portfolio-exo.vercel.app/) | `READY TO DEPLOY` |
 | **📦 GitHub Repository** | [https://github.com/pujanchouhan/dev-portfolio-exo](https://github.com/pujanchouhan/dev-portfolio-exo) | `PUBLIC` |
 
 ---
